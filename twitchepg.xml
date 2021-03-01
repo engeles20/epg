@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="FX.us"><display-name>FX US</display-name><icon src="https://static.epg.best/us/FX.us.png"/></channel>
+<iepg>92498</iepg>
+<programme start="20210228030000 +0100" stop="20210228050000 +0100" channel="FX.us">
+    <title lang="en">Step Brothers</title>
+    <desc lang="en">Will Ferrell and John C. Reilly are comic powder kegs in this slap-happy, hilarious romp. They're a pair of goof-offs who become family when one's mother marries the other's father, and soon bad blood flows and sparks fly between the two contentious and competitive guys. Mary Steenburgen and Richard Jenkins portray the parents. Ferrell, who cowrote the script, and Reilly costarred in "Talledega Nights," which was directed by Adam McKay, who also directs this comedy</desc>
+    <date>2008</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvguide2.cbsistatic.com/catalog/provider/1/2/1-6919602825.jpg"/>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20210228050000 +0100" stop="20210228060900 +0100" channel="FX.us">
+    <title lang="en">Snowfall</title>
+    <sub-title lang="en">Re-Entry</sub-title>
+    <desc lang="en">With violence in South Central ramping up, Franklin attempts to stop a gang war from exploding. Gustavo and Teddy deal with pipeline issues. Local reporter Irene Abe attempts to understand what's happening to her neighborhood. Leon charts a new path</desc>
+    <credits>
+      <director>Meera Menon</director>
+      <director>Clark Johnson</director>
+      <actor>Damson Idris</actor>
+      <actor>Carter Hudson</actor>
+      <actor>Sergio Peris-Mencheta</actor>
+      <actor>Michael Hyatt</actor>
+      <actor>Amin Joseph</actor>
+      <writer>Leonard Chang</writer>
+      <writer>Dave Andron</writer>
+      <producer>Evan Silverberg</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://tvguide2.cbsistatic.com/catalog/provider/1/1/1-9640237196.jpg"/>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+</tv>
