@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> <icon src="https://static.epg.best/us/FX.us.png"/>
 <tv>
 <channel id="(Dummy Local Programming)">
 <display-name>mpeg4buddha(offline)</display-name>
 </channel>
-<channel id="FX.us">
+<channel id="FX.us" icon src="https://static.epg.best/us/FX.us.png"/>
 <display-name>mpeg4Saiiren(offline)</display-name>
 </channel>
 <channel id="MTV.us">
@@ -12,7 +12,7 @@
 <channel id="(no tvg-id)">
 <display-name>m3u4u.com</display-name>
 </channel>
-<programme start="20210302010000 +0000" stop="20210302040000 +0000" channel="FX.us">
+<programme start="20210302010000 +0000" stop="20210302040000 +0000" channel="FX.us" icon src="https://static.epg.best/us/FX.us.png"/>
 <title lang="en" >The Fate of the Furious</title>
 <desc lang="en">With Dom and Letty married, Brian and Mia retired and the rest of the crew exonerated, the globe-trotting team has found some semblance of a normal life. They soon face an unexpected challenge when a mysterious woman named Cipher forces Dom to betray them all. Now, they must unite to bring home the man who made them a family and stop Cipher from unleashing chaos.</desc>
 </programme>
